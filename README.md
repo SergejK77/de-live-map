@@ -10,5 +10,6 @@ Bilder:
 ToDo:
 - Datenbank dahinter setzen
 - Mehr Events
-- Quellen angabe je Event
+- Quellenangabe je Event, damit die Events auch nachvollziehbar sind
+- Filter 
 - Bessere Icons
